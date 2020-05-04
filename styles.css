@@ -1,0 +1,30 @@
+.draw {
+	display: inline-block;
+    height: 97vh;
+    width: 97vw;
+    
+    text-align:center;
+    
+    /*border:1px solid #99A3A4;
+    box-sizing: border-box;*/
+}
+
+body {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    
+    text-align:center;
+}
+
+canvas {
+    /*height: 99%;
+    width: 99%;*/
+	display: inline-block;
+    /*border: 1px solid black;*/
+}
+
+
