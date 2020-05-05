@@ -1,5 +1,5 @@
-var M = 120;
-var N = 120;
+var M = 100;
+var N = 100;
 var F = [[]];           // bit field 0000 relatively to (UP, DOWN, LEFT, RIGHT) directions
 
 var nc = [];
